@@ -1,0 +1,6 @@
+block_id,block_area_ha,gedi_valid_pixel_count,agbd_mgha_mean,agbd_mgha_stderr,flag_note
+I,275.2,10,79.29864106702438,16.37087954469798,
+II,815.5,42,72.52886980911529,6.468664829867803,
+III,121.9,7,321.5110821760334,229.94649020677943,"Anomalously high AGBD in prior per-year runs (457 Mg/ha at n=5); circular area-matched geometry for this block plausibly clips into a remnant, non-CDM-eligible Gmelina arborea plantation described in PDD Section G1.2. Treat this block's estimate with caution; project-wide totals are reported both with and without it."
+IV,228.1,4,47.366309211181644,15.922329913170627,
+V,658.2,18,77.63285865018013,8.359034568144617,

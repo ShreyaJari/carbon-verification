@@ -1,0 +1,3 @@
+scenario,agbd_mgha_mean,agbd_mgha_stderr,area_covered_by_gedi_ha,area_scaled_to_ha,independent_co2e_estimate_tco2e,independent_co2e_stderr_tco2e,registry_claimed_cumulative_tco2e,difference_tco2e,pct_difference
+excluding_block_III,72.27,4.84,1977.0,2099,323953,21700,345164,-21211,-6.1
+including_all_blocks,86.74,14.11,2098.9,2099,388843,63259,345164,43679,12.7
