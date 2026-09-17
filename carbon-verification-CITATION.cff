@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software or its results, please cite it as below."
+title: "Carbon Verification Toolkit"
+authors:
+  - family-names: "Jariwala"
+    given-names: "Shreya"
+version: "1.0.0"
+date-released: "2026-09-17"
+url: "https://github.com/ShreyaJari/[confirm exact repo slug — your Repository structure section lists 05_Carbon_Verification_Toolkit, which may be a folder name rather than the GitHub repo slug]"
+repository-code: "https://github.com/ShreyaJari/[confirm exact repo slug — see note above]"
+license: MIT
+keywords:
+  - geoai
+  - remote-sensing
+  - earth-observation
+  - carbon-mrv
+  - gedi
+  - biomass-estimation
+abstract: >
+  Independent, satellite-based measurement, reporting, and verification
+  of a real, publicly documented carbon credit project's claimed
+  sequestration, checking a registry's numbers against GEDI biomass,
+  Sentinel-2 canopy data, and OCO-2/3 atmospheric CO2.
